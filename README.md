@@ -15,5 +15,7 @@ Ensure Homebrew is installed. If not, install it with:
 ```
 
 ### Run below command to install all packages defined in the Brewfile (run command on same dir)
+```bash
 brew bundle
+```
 
